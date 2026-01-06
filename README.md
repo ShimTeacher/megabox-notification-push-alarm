@@ -32,7 +32,6 @@
 - ![알림 예시 1 - 돌비관 감지](./docs/assets/image1.png)
 - ![알림 예시 2 - 스페셜 회차 감지](./docs/assets/image2.png)
 - ![알림 예시 3 - 이벤트 등록 감지](./docs/assets/image3.png)
-
 ---
 
 ## ❓ FAQ
