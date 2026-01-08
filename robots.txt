@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shimteacher.github.io/megabox-notification-push-alarm/sitemap.xml
