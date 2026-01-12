@@ -1,4 +1,4 @@
-title: 메가박스 예매 오픈 알림 받기 | 영화 예매 등록 알림 서비스
-description: 메가박스 영화 예매가 열리는 순간 알림을 받아보세요. 돌비관·이벤트·상영 스케줄 변동을 감지해 텔레그램으로 알려주는 비공식 예매 오픈 알림 서비스입니다.
+title: "메가박스 예매 오픈 알림 받기"
+description: "메가박스 영화 예매가 열리는 순간 알림을 받아보세요."
 theme: jekyll-theme-cayman
 markdown: kramdown
